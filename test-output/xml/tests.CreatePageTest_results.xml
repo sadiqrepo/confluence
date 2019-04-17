@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Chrome_CreatePageTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="200.607">
+  <properties />
+  
+  
+            <testcase name="createBlankPage" time="74.971" classname="tests.CreatePageTest" />
+                <testcase name="createBlankPage" time="73.999" classname="tests.CreatePageTest" />
+                <testcase name="createBlankPage" time="51.637" classname="tests.CreatePageTest" />
+      
+</testsuite>

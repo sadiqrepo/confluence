@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="runtest" verbose="1" >
+
+    <listeners>
+
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+        <listener class-name="util.LogUtil" />
+        <listener class-name="util.ScreenshotUtil" />
+
+    </listeners>
+
+    <!--Chrome tests below-->
+
+    <test name="Chrome_LoginTest" preserve-order="true">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="tests.LoginTest" />
+        </classes>
+    </test>
+
+
+    <test name="Chrome_CreatePageTest" preserve-order="true">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="tests.CreatePageTest" />
+        </classes>
+    </test>
+
+
+
+    <!--Firefox tests below-->
+
+    <test name="Firefox_LoginTest" preserve-order="true">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="tests.LoginTest" />
+        </classes>
+    </test>
+
+    <test name="Firefox_CreatePageTest" preserve-order="true">
+        <parameter name="browser" value="firefox" />
+        <classes>
+            <class name="tests.CreatePageTest" />
+        </classes>
+    </test>
+
+
+
+
+
+
+
+
+
+</suite>

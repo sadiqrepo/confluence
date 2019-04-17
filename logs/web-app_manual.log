@@ -1,0 +1,187 @@
+Chrome_LoginTest--Test start
+
+Selected browser is: chrome
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+[TestClass name=class tests.LoginTest]:login--Test Started->
+Entering values for regular sign up page
+Test 'login'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//LoginTest_17-Apr-2019__08_27PM/login/LoginTest.login.png
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+
+Chrome_LoginTest--Test Finish->
+
+
+Chrome_CreatePageTest--Test start
+
+Selected browser is: chrome
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 CreatePageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+Entering values for regular sign up page
+[TestClass name=class tests.CreatePageTest]:createBlankPage--Test Started->
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='confluence-left-nav']//div[contains(text(),'Title3442')]"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.38.552518 (183d19265345f54ce39cbb94cf81ba5f15905011),platform=Mac OS X 10.14.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sadiq.local', ip: 'fe80:0:0:0:108d:aed9:a3c9:487d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552518 (183d19265345f5..., userDataDir: /var/folders/bd/6w_f53cx4s7...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: f23088eb1a49c788a4284b6ef81d7218
+*** Element info: {Using=xpath, value=//div[@id='confluence-left-nav']//div[contains(text(),'Title3442')]}
+Test 'createBlankPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//CreatePageTest_17-Apr-2019__08_28PM/createBlankPage/CreatePageTest.createBlankPage.png
+
+
+
+[TestClass name=class tests.CreatePageTest]:createBlankPage--Test Started->
+Test 'createBlankPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//CreatePageTest_17-Apr-2019__08_29PM/createBlankPage/CreatePageTest.createBlankPage.png
+
+
+
+[TestClass name=class tests.CreatePageTest]:createBlankPage--Test Started->
+Test 'createBlankPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//CreatePageTest_17-Apr-2019__08_30PM/createBlankPage/CreatePageTest.createBlankPage.png
+
+
+
+Chrome_CreatePageTest--Test Finish->
+
+
+Firefox_LoginTest--Test start
+
+Selected browser is: firefox
+
+[DEBUG] Detected os is Mac. 
+ Geckodriver for Mac OS will be used
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+[TestClass name=class tests.LoginTest]:login--Test Started->
+Entering values for regular sign up page
+Test 'login'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//LoginTest_17-Apr-2019__08_31PM/login/LoginTest.login.png
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+
+Firefox_LoginTest--Test Finish->
+
+
+Firefox_CreatePageTest--Test start
+
+Selected browser is: firefox
+
+[DEBUG] Detected os is Mac. 
+ Geckodriver for Mac OS will be used
+Before Login
+
+****************************************************************************************
+****************************************************************************************
+$$$$$$$$$$$$$$$$$$$$$                 CreatePageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+****************************************************************************************
+****************************************************************************************
+Entering values for regular sign up page
+[TestClass name=class tests.CreatePageTest]:createBlankPage--Test Started->
+Unable to locate element: //div[@id='confluence-left-nav']//div[contains(text(),'Title8611')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sadiq.local', ip: 'fe80:0:0:0:108d:aed9:a3c9:487d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 66.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 22043, moz:profile: /var/folders/bd/6w_f53cx4s7..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 18.5.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f1739d1d-491c-b94f-ada7-14fefa2aae52
+*** Element info: {Using=xpath, value=//div[@id='confluence-left-nav']//div[contains(text(),'Title8611')]}
+Test 'createBlankPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//CreatePageTest_17-Apr-2019__08_32PM/createBlankPage/CreatePageTest.createBlankPage.png
+
+
+
+[TestClass name=class tests.CreatePageTest]:createBlankPage--Test Started->
+Test 'createBlankPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//CreatePageTest_17-Apr-2019__08_33PM/createBlankPage/CreatePageTest.createBlankPage.png
+
+
+
+[TestClass name=class tests.CreatePageTest]:createBlankPage--Test Started->
+Test 'createBlankPage'  PASSED  
+Priority of this method is 0
+
+
+Priority of this method is 0
+### ### ### ### ### ### ### ### ### ### ### ### ###
+
+screenshots/Success//CreatePageTest_17-Apr-2019__08_34PM/createBlankPage/CreatePageTest.createBlankPage.png
+
+
+
+Firefox_CreatePageTest--Test Finish->
+
+

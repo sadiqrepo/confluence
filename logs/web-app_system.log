@@ -1,0 +1,187 @@
+2019-04-17 20:27:04,202  INFO : 88 --  Chrome_LoginTest--Test start
+
+2019-04-17 20:27:04,247  INFO : 22 --  Selected browser is: chrome
+2019-04-17 20:27:07,106  INFO : 22 --  Before Login
+2019-04-17 20:27:07,106  INFO : 45 --  
+****************************************************************************************
+2019-04-17 20:27:07,107  INFO : 47 --  ****************************************************************************************
+2019-04-17 20:27:07,107  INFO : 49 --  $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-04-17 20:27:07,108  INFO : 51 --  ****************************************************************************************
+2019-04-17 20:27:07,108  INFO : 53 --  ****************************************************************************************
+2019-04-17 20:27:07,148  INFO : 94 --  [TestClass name=class tests.LoginTest]:login--Test Started->
+2019-04-17 20:27:07,149  INFO : 22 --  Entering values for regular sign up page
+2019-04-17 20:27:15,757  INFO : 100 --  Test 'login'  PASSED  
+2019-04-17 20:27:15,795  INFO : 109 --  Priority of this method is 0
+
+
+2019-04-17 20:27:15,796  INFO : 111 --  Priority of this method is 0
+2019-04-17 20:27:15,796  INFO : 112 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2019-04-17 20:27:17,367  INFO : 22 --  screenshots/Success//LoginTest_17-Apr-2019__08_27PM/login/LoginTest.login.png
+
+
+
+2019-04-17 20:27:17,504  INFO : 61 --  XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-04-17 20:27:17,511  INFO : 63 --  X
+2019-04-17 20:27:17,512  INFO : 65 --  X
+2019-04-17 20:27:17,513  INFO : 67 --  X
+
+2019-04-17 20:27:17,515  INFO : 119 --  Chrome_LoginTest--Test Finish->
+
+
+2019-04-17 20:27:17,519  INFO : 88 --  Chrome_CreatePageTest--Test start
+
+2019-04-17 20:27:17,520  INFO : 22 --  Selected browser is: chrome
+2019-04-17 20:27:19,454  INFO : 22 --  Before Login
+2019-04-17 20:27:19,455  INFO : 45 --  
+****************************************************************************************
+2019-04-17 20:27:19,455  INFO : 47 --  ****************************************************************************************
+2019-04-17 20:27:19,455  INFO : 49 --  $$$$$$$$$$$$$$$$$$$$$                 CreatePageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-04-17 20:27:19,455  INFO : 51 --  ****************************************************************************************
+2019-04-17 20:27:19,456  INFO : 53 --  ****************************************************************************************
+2019-04-17 20:27:19,467  INFO : 22 --  Entering values for regular sign up page
+2019-04-17 20:27:28,023  INFO : 94 --  [TestClass name=class tests.CreatePageTest]:createBlankPage--Test Started->
+2019-04-17 20:28:10,091 ERROR : 30 --  no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='confluence-left-nav']//div[contains(text(),'Title3442')]"}
+  (Session info: chrome=73.0.3683.103)
+  (Driver info: chromedriver=2.38.552518 (183d19265345f54ce39cbb94cf81ba5f15905011),platform=Mac OS X 10.14.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sadiq.local', ip: 'fe80:0:0:0:108d:aed9:a3c9:487d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552518 (183d19265345f5..., userDataDir: /var/folders/bd/6w_f53cx4s7...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 73.0.3683.103, webStorageEnabled: true}
+Session ID: f23088eb1a49c788a4284b6ef81d7218
+*** Element info: {Using=xpath, value=//div[@id='confluence-left-nav']//div[contains(text(),'Title3442')]}
+2019-04-17 20:28:19,660  INFO : 100 --  Test 'createBlankPage'  PASSED  
+2019-04-17 20:28:19,660  INFO : 109 --  Priority of this method is 0
+
+
+2019-04-17 20:28:19,661  INFO : 111 --  Priority of this method is 0
+2019-04-17 20:28:19,661  INFO : 112 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2019-04-17 20:28:21,193  INFO : 22 --  screenshots/Success//CreatePageTest_17-Apr-2019__08_28PM/createBlankPage/CreatePageTest.createBlankPage.png
+
+
+
+2019-04-17 20:28:21,194  INFO : 94 --  [TestClass name=class tests.CreatePageTest]:createBlankPage--Test Started->
+2019-04-17 20:29:35,193  INFO : 100 --  Test 'createBlankPage'  PASSED  
+2019-04-17 20:29:35,193  INFO : 109 --  Priority of this method is 0
+
+
+2019-04-17 20:29:35,194  INFO : 111 --  Priority of this method is 0
+2019-04-17 20:29:35,194  INFO : 112 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2019-04-17 20:29:36,686  INFO : 22 --  screenshots/Success//CreatePageTest_17-Apr-2019__08_29PM/createBlankPage/CreatePageTest.createBlankPage.png
+
+
+
+2019-04-17 20:29:36,687  INFO : 94 --  [TestClass name=class tests.CreatePageTest]:createBlankPage--Test Started->
+2019-04-17 20:30:51,659  INFO : 100 --  Test 'createBlankPage'  PASSED  
+2019-04-17 20:30:51,659  INFO : 109 --  Priority of this method is 0
+
+
+2019-04-17 20:30:51,659  INFO : 111 --  Priority of this method is 0
+2019-04-17 20:30:51,659  INFO : 112 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2019-04-17 20:30:53,165  INFO : 22 --  screenshots/Success//CreatePageTest_17-Apr-2019__08_30PM/createBlankPage/CreatePageTest.createBlankPage.png
+
+
+
+2019-04-17 20:30:53,620  INFO : 119 --  Chrome_CreatePageTest--Test Finish->
+
+
+2019-04-17 20:30:53,620  INFO : 88 --  Firefox_LoginTest--Test start
+
+2019-04-17 20:30:53,621  INFO : 22 --  Selected browser is: firefox
+2019-04-17 20:30:53,624 DEBUG : 38 --  
+[DEBUG] Detected os is Mac. 
+ Geckodriver for Mac OS will be used
+2019-04-17 20:30:57,208  INFO : 22 --  Before Login
+2019-04-17 20:30:57,209  INFO : 45 --  
+****************************************************************************************
+2019-04-17 20:30:57,210  INFO : 47 --  ****************************************************************************************
+2019-04-17 20:30:57,211  INFO : 49 --  $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-04-17 20:30:57,211  INFO : 51 --  ****************************************************************************************
+2019-04-17 20:30:57,212  INFO : 53 --  ****************************************************************************************
+2019-04-17 20:30:57,214  INFO : 94 --  [TestClass name=class tests.LoginTest]:login--Test Started->
+2019-04-17 20:30:57,214  INFO : 22 --  Entering values for regular sign up page
+2019-04-17 20:31:04,072  INFO : 100 --  Test 'login'  PASSED  
+2019-04-17 20:31:04,074  INFO : 109 --  Priority of this method is 0
+
+
+2019-04-17 20:31:04,075  INFO : 111 --  Priority of this method is 0
+2019-04-17 20:31:04,075  INFO : 112 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2019-04-17 20:31:05,384  INFO : 22 --  screenshots/Success//LoginTest_17-Apr-2019__08_31PM/login/LoginTest.login.png
+
+
+
+2019-04-17 20:31:06,200  INFO : 61 --  XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2019-04-17 20:31:06,200  INFO : 63 --  X
+2019-04-17 20:31:06,200  INFO : 65 --  X
+2019-04-17 20:31:06,200  INFO : 67 --  X
+
+2019-04-17 20:31:06,201  INFO : 119 --  Firefox_LoginTest--Test Finish->
+
+
+2019-04-17 20:31:06,201  INFO : 88 --  Firefox_CreatePageTest--Test start
+
+2019-04-17 20:31:06,202  INFO : 22 --  Selected browser is: firefox
+2019-04-17 20:31:06,202 DEBUG : 38 --  
+[DEBUG] Detected os is Mac. 
+ Geckodriver for Mac OS will be used
+2019-04-17 20:31:09,580  INFO : 22 --  Before Login
+2019-04-17 20:31:09,580  INFO : 45 --  
+****************************************************************************************
+2019-04-17 20:31:09,581  INFO : 47 --  ****************************************************************************************
+2019-04-17 20:31:09,581  INFO : 49 --  $$$$$$$$$$$$$$$$$$$$$                 CreatePageTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2019-04-17 20:31:09,581  INFO : 51 --  ****************************************************************************************
+2019-04-17 20:31:09,581  INFO : 53 --  ****************************************************************************************
+2019-04-17 20:31:09,584  INFO : 22 --  Entering values for regular sign up page
+2019-04-17 20:31:16,499  INFO : 94 --  [TestClass name=class tests.CreatePageTest]:createBlankPage--Test Started->
+2019-04-17 20:32:00,228 ERROR : 30 --  Unable to locate element: //div[@id='confluence-left-nav']//div[contains(text(),'Title8611')]
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sadiq.local', ip: 'fe80:0:0:0:108d:aed9:a3c9:487d%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.4', java.version: '1.8.0_111'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 66.0.3, javascriptEnabled: true, moz:accessibilityChecks: false, moz:geckodriverVersion: 0.23.0, moz:headless: false, moz:processID: 22043, moz:profile: /var/folders/bd/6w_f53cx4s7..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 18.5.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f1739d1d-491c-b94f-ada7-14fefa2aae52
+*** Element info: {Using=xpath, value=//div[@id='confluence-left-nav']//div[contains(text(),'Title8611')]}
+2019-04-17 20:32:11,125  INFO : 100 --  Test 'createBlankPage'  PASSED  
+2019-04-17 20:32:11,126  INFO : 109 --  Priority of this method is 0
+
+
+2019-04-17 20:32:11,127  INFO : 111 --  Priority of this method is 0
+2019-04-17 20:32:11,127  INFO : 112 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2019-04-17 20:32:12,672  INFO : 22 --  screenshots/Success//CreatePageTest_17-Apr-2019__08_32PM/createBlankPage/CreatePageTest.createBlankPage.png
+
+
+
+2019-04-17 20:32:12,677  INFO : 94 --  [TestClass name=class tests.CreatePageTest]:createBlankPage--Test Started->
+2019-04-17 20:33:27,552  INFO : 100 --  Test 'createBlankPage'  PASSED  
+2019-04-17 20:33:27,553  INFO : 109 --  Priority of this method is 0
+
+
+2019-04-17 20:33:27,554  INFO : 111 --  Priority of this method is 0
+2019-04-17 20:33:27,554  INFO : 112 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2019-04-17 20:33:29,147  INFO : 22 --  screenshots/Success//CreatePageTest_17-Apr-2019__08_33PM/createBlankPage/CreatePageTest.createBlankPage.png
+
+
+
+2019-04-17 20:33:29,150  INFO : 94 --  [TestClass name=class tests.CreatePageTest]:createBlankPage--Test Started->
+2019-04-17 20:34:50,593  INFO : 100 --  Test 'createBlankPage'  PASSED  
+2019-04-17 20:34:50,595  INFO : 109 --  Priority of this method is 0
+
+
+2019-04-17 20:34:50,595  INFO : 111 --  Priority of this method is 0
+2019-04-17 20:34:50,595  INFO : 112 --  ### ### ### ### ### ### ### ### ### ### ### ### ###
+
+2019-04-17 20:34:51,776  INFO : 22 --  screenshots/Success//CreatePageTest_17-Apr-2019__08_34PM/createBlankPage/CreatePageTest.createBlankPage.png
+
+
+
+2019-04-17 20:34:52,623  INFO : 119 --  Firefox_CreatePageTest--Test Finish->
+
+
