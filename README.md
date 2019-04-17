@@ -10,7 +10,9 @@ Confluence(framework) is built on top of TestNG and Selenium to provide a set of
 1. Make sure the following software is installed on your machine before you start using this framework:
 
 ** Java JDK 1.8
+
 ** Maven 3.2.x
+
 ** Intellij IDEA (IDE)
 
 
