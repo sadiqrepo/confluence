@@ -7,7 +7,7 @@ Confluence(framework) is built on top of TestNG and Selenium to provide a set of
 
 ## Prerequisites
 
-1. Make sure the following software is installed on your machine before you start using this framework:
+Make sure the following software is installed on your machine before you start using this framework:
 
 a) Java JDK 1.8
 
@@ -16,7 +16,7 @@ b) Maven 3.2.x
 c) Intellij IDEA (IDE)
 
 
-2. Can be executed on Mac or Linux(Cent OS)
+Tests Can be executed on Mac or Linux(Cent OS)
 
 
 
