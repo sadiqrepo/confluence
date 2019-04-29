@@ -15,6 +15,8 @@ b) Maven 3.2.x
 
 c) Intellij IDEA (IDE)
 
+d) Web browser - Chrome & Firefox
+
 
 Tests Can be executed on Mac or Linux(Cent OS)
 
