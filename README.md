@@ -1,4 +1,4 @@
-# Confluence cloud automation
+# Confluence (Atlassion) cloud automation
 
 Enabling test automation in Java
 
